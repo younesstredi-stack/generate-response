@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Réponses aux Avis",
+  "description": "Une application web simple et professionnelle en français destinée aux petits commerces du Québec pour générer des réponses aux avis clients en utilisant l'IA.",
+  "requestFramePermissions": []
+}
